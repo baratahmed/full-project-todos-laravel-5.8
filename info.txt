@@ -1,0 +1,3 @@
+*) php artisan make:seeder TodosTableSeeder
+
+*) php artisan db:seed  (to generate dummy data)
